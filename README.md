@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[LAXXOLA](eye-spy-mern.web.app/)
+[LAXXOLA](https://eye-spy-mern.web.app/)
 
 ## Features
 
