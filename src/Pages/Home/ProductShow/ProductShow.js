@@ -17,7 +17,7 @@ const ProductShow = () => {
                     <div class="content text-center">
                         {/* ------------- */}
 
-                        <Row sm={1} md={3} className="g-4 p-4">
+                        <Row xs={1} sm={1} md={3} className="g-4 p-4">
                             {
                                 products.slice(0,6).map(product=>(
                                     <Col>
