@@ -1,0 +1,16 @@
+.foote{
+    margin: 1rem ;
+    background-color: #f7f7f7;
+    color: #40a7db;
+}
+.footer-items{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-items li i,
+.mati
+{
+    color: #40a7db;
+    font-weight: 400;
+}
+
